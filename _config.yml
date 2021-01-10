@@ -1,3 +1,7 @@
 title: Carbon Apps
 description: Bring your spreadsheet to life with a custom mobile app.
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
+github:
+  is_project_page: false
