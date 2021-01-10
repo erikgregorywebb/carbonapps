@@ -1,4 +1,4 @@
-Bring your spreadsheet to life with a custom mobile app. We design beautiful and intuitive apps for your business and organization needs.
+Bring your spreadsheet to life with a custom mobile app. We design beautiful and intuitive apps, offering expert development and affordable pricing, for your business and organization needs.
 
 ### Quick to Build
 Our dedicated team will share a prototype within 48 hours, and deliver your completed app in 7 days.
@@ -55,8 +55,8 @@ Directory
 
 > "Erik is **extremely talented, professional, responsive and will bring your idea to light**. My project was finished ahead of schedule And I am very pleased! I HIGHLY recommend him for your prototype." - Matt I.
 
-**Get a [free quote](https://forms.gle/QJAyyBAPcWvNzi5u9) today.**
-
 ## :computer: About
 
 Erik is a data scientist, developer, and founder of Carbon Apps. He has designed, developed, and launched dozens of apps for clients that are used by hundreds of users. Through Carbon Apps, Erik enjoys helping small business owners automate and optimize their operations.
+
+**Ready to work together? [Let's talk.](https://forms.gle/QJAyyBAPcWvNzi5u9)**
