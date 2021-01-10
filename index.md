@@ -1,4 +1,6 @@
-#### Bring your spreadsheet to life with a custom mobile app.
+Bring your spreadsheet to life with a custom mobile app.
+
+## :heavy_check_mark: Features
 
 ### Quick to Build
 Our dedicated team will share a prototype within 48 hours, and deliver your completed app in 7 days.
@@ -11,7 +13,15 @@ Our apps use Google Sheets as a backend, allowing you to update and revise conte
 
 **Want to learn more? Get a [free quote](https://forms.gle/QJAyyBAPcWvNzi5u9) today.**
 
-## :receipt: Pricing
+## :iphone: Solutions
+
+Conferences
+
+Conferences
+
+Conferences
+
+## :credit_card: Pricing
 
 ### Basic App
 **Starting at $149**
@@ -49,4 +59,4 @@ Our apps use Google Sheets as a backend, allowing you to update and revise conte
 
 ## :computer: About
 
-Erik is a data scientist, developer, and founder of Carbon Apps. He has designed, developed, and launched dozens of apps for clients that are used by hundreds of users. After graudating from Brigham Young University with a degree in Economics, Erik joined J.P. Morgan in New York City as a Rotational Analyst. Through Carbon Apps, Erik enjoys helping small business owners automate and optimize their operations.
+Erik is a data scientist, developer, and founder of Carbon Apps. He has designed, developed, and launched dozens of apps for clients that are used by hundreds of users. Through Carbon Apps, Erik enjoys helping small business owners automate and optimize their operations.
