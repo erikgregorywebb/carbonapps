@@ -1,4 +1,4 @@
-# Expert development. Affordable pricing.
+## Expert development. Affordable pricing.
 
 ### Quick to Build
 Our dedicated team will share a prototype within 48 hours, and deliver your completed app in 7 days.
@@ -11,7 +11,7 @@ Our apps use Google Sheets as a backend, allowing you to update and revise conte
 
 **Want to learn more? Get a [free quote](https://forms.gle/QJAyyBAPcWvNzi5u9) today.**
 
-# Pricing
+## :receipt: Pricing
 
 ### Basic App
 **Starting at $149**
@@ -37,7 +37,7 @@ Our apps use Google Sheets as a backend, allowing you to update and revise conte
 - 500+ rows of data
 - 3 hours of training & support
 
-# Reviews
+## :100: Reviews
 
 > "Erik was a great person to work with. **It was like he read my mind what I was looking to accomplish with the proposed project**. We have other project coming, Erik will have the first shot with all of them. I highly recommend!" - Greg P.
 
@@ -47,6 +47,6 @@ Our apps use Google Sheets as a backend, allowing you to update and revise conte
 
 **Get a [free quote](https://forms.gle/QJAyyBAPcWvNzi5u9) today.**
 
-# About
+## :computer: About
 
 Erik is a data scientist, developer, and founder of Carbon Apps. He has designed, developed, and launched dozens of apps for clients that are used by hundreds of users. After graudating from Brigham Young University with a degree in Economics, Erik joined J.P. Morgan in New York City as a Rotational Analyst. Through Carbon Apps, Erik enjoys helping small business owners automate and optimize their operations.
