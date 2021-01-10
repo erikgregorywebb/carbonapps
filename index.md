@@ -1,4 +1,4 @@
-## Expert development. Affordable pricing.
+#### Bring your spreadsheet to life with a custom mobile app.
 
 ### Quick to Build
 Our dedicated team will share a prototype within 48 hours, and deliver your completed app in 7 days.
