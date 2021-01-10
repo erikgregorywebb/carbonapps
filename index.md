@@ -1,6 +1,4 @@
-Bring your spreadsheet to life with a custom mobile app.
-
-## :heavy_check_mark: Features
+Bring your spreadsheet to life with a custom mobile app. We design beautiful and intuitive apps for your business and organization needs.
 
 ### Quick to Build
 Our dedicated team will share a prototype within 48 hours, and deliver your completed app in 7 days.
@@ -11,15 +9,17 @@ Skip the hassle of publishing to the App Store; our apps are shared by URL and i
 ### Easy to Update
 Our apps use Google Sheets as a backend, allowing you to update and revise content on demand, in real-time.
 
-**Want to learn more? Get a [free quote](https://forms.gle/QJAyyBAPcWvNzi5u9) today.**
+**Want to learn more? [Let's chat.](https://forms.gle/QJAyyBAPcWvNzi5u9)**
 
 ## :iphone: Solutions
 
-Conferences
+### Events & Conferences
 
-Conferences
+Wow participants with an app complete with.
 
-Conferences
+### Organization Management
+
+Directory
 
 ## :credit_card: Pricing
 
