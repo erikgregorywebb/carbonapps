@@ -2,7 +2,7 @@
 
 ### carbonappsco.com
 
-Bring your spreadsheet to life with a custom mobile app. We design beautiful and intuitive apps, offering expert development and affordable pricing, for your business and organization needs.
+Bring your spreadsheet to life with a custom mobile app. We design beautiful and intuitive apps, offering expert development and affordable pricing.
 
 - :rocket: Quick to Build: Our dedicated team will share a prototype within 48 hours, and deliver your completed app in 7 days.
 - :earth_americas: Simple to Share - Skip the hassle of publishing to the App Store; our apps are shared by URL and install in seconds.
