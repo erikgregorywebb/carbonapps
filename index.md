@@ -13,15 +13,25 @@ Our apps use Google Sheets as a backend, allowing you to update and revise conte
 
 **Want to learn more? [Let's chat.](https://forms.gle/QJAyyBAPcWvNzi5u9)**
 
-## Solutions
+## Sample Solutions
 
 ### Events & Conferences
 
-Wow participants with an app complete with.
+Description
+
+<img src="images/solution_1.png" alt="hi" class="inline"/>
 
 ### Organization Management
 
-Directory
+Description
+
+<img src="images/solution_2.png" alt="hi" class="inline"/>
+
+### Brands & eCommerce
+
+Description
+
+<img src="images/solution_3.png" alt="hi" class="inline"/>
 
 ## Pricing
 
