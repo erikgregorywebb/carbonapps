@@ -1,5 +1,4 @@
-
-## Bring your spreadsheet to life with a custom mobile app. 
+ 
 **We design beautiful and intuitive apps, offering expert development and affordable pricing, for your business and organization needs.**
 
 ## Features
@@ -19,19 +18,19 @@ Our apps use Google Sheets as a backend, allowing you to update and revise conte
 
 ### Events & Conferences
 
-Description
+Delight participants with interactive schedules, speaker bios, and sponsor profiles.
 
 <img src="images/solution_1.png" alt="hi" class="inline"/>
 
 ### Organization Management
 
-Description
+Streamline your team's contact information with a dynamic phonebook organized by role, department, or location. 
 
 <img src="images/solution_2.png" alt="hi" class="inline"/>
 
 ### Brands & eCommerce
 
-Description
+Engage your audience, making it easy for buyers to explore and purchase your products or services.
 
 <img src="images/solution_3.png" alt="hi" class="inline"/>
 
