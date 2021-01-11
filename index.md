@@ -1,4 +1,5 @@
-#### **Bring your spreadsheet to life with a custom mobile app. We design beautiful and intuitive apps, offering expert development and affordable pricing, for your business and organization needs.**
+## Bring your spreadsheet to life with a custom mobile app. 
+**We design beautiful and intuitive apps, offering expert development and affordable pricing, for your business and organization needs.**
 
 ## Features
 
