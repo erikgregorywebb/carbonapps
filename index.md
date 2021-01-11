@@ -1,5 +1,5 @@
  
-**We design beautiful and intuitive apps, offering expert development and affordable pricing, for your business and organization needs.**
+**We design beautiful and intuitive apps, offering expert development and affordable pricing.**
 
 ## Features
 
@@ -37,32 +37,32 @@ Engage your audience, making it easy for buyers to explore and purchase your pro
 ## Pricing
 
 ### :bike: Basic App
-**Starting at $149**
+**Starting at $249**
 - Built from a pre-designed template
 - 3-5 unique screens
-- 1 round of feedback & revision
+- 1 round of feedback and revision
 - < 250 rows of data
-- 1 hour of training & support
+- 1 hour of training and support
 
 ### :car: Plus App
-**Starting at $249**
-- Personalized layout & interface
+**Starting at $349**
+- Personalized layout and interface
 - 5-7 unique screens
-- 2 rounds of feedback & revision
+- 2 rounds of feedback and revision
 - < 500 rows of data
-- 2 hours of training & support
+- 2 hours of training and support
 
 ### :airplane: Pro App
-**Starting at $349**
+**Starting at $449**
 - Custom design, built from scratch
 - 8+ unique screens
-- 2 rounds of feedback & revision
+- 2 rounds of feedback and revision
 - 500+ rows of data
-- 3 hours of training & support
+- 3 hours of training and support
 
 ## Reviews
 
-> "Erik was a great person to work with. **It was like he read my mind what I was looking to accomplish with the proposed project**. We have other project coming, Erik will have the first shot with all of them. I highly recommend!" - Greg P.
+> "Erik was a great person to work with. **It was like he read my mind with what I was looking to accomplish with the proposed project**. We have other project coming, Erik will have the first shot with all of them. I highly recommend!" - Greg P.
 
 > "Erik was terrific to work with. He replied the same day as my initial contact. He had a prototype ahead of schedule, and  helped improve our final product. **Completely thrilled with the entire experience and the pricing as well**." - Doug T.
 
@@ -70,6 +70,6 @@ Engage your audience, making it easy for buyers to explore and purchase your pro
 
 ## About
 
-Erik is a data scientist, developer, and founder of Carbon Apps. He has designed, developed, and launched dozens of apps for clients that are used by hundreds of users. Through Carbon Apps, Erik enjoys helping small business owners automate and optimize their operations.
+Erik is a data scientist, developer, and founder of Carbon Apps. He has designed, developed, and launched dozens of apps for clients that are used by hundreds of users. Through Carbon Apps, Erik helps small business owners automate and optimize their operations.
 
 **Ready to work together? [Let's talk.](https://forms.gle/QJAyyBAPcWvNzi5u9)**
