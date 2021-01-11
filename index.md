@@ -12,7 +12,7 @@ Skip the hassle of publishing to the App Store; our apps are shared by URL and i
 ### :computer: Easy to Update
 Our apps use Google Sheets as a backend, allowing you to update and revise content on demand, in real-time.
 
-**Want to learn more? [Let's chat.](https://forms.gle/QJAyyBAPcWvNzi5u9)**
+**Want to learn more? [Let's chat.](https://forms.gle/hVy93A1BQaXbD1387)**
 
 ## Sample Solutions
 
@@ -72,4 +72,4 @@ Engage your audience, making it easy for buyers to explore and purchase your pro
 
 Erik is a data scientist, developer, and founder of Carbon Apps. He has designed, developed, and launched dozens of apps for clients that are used by hundreds of users. Through Carbon Apps, Erik helps small business owners automate and optimize their operations.
 
-**Ready to work together? [Let's talk.](https://forms.gle/QJAyyBAPcWvNzi5u9)**
+**Ready to work together? [Let's talk.](https://forms.gle/hVy93A1BQaXbD1387)**
