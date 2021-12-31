@@ -37,7 +37,7 @@ Engage your audience, making it easy for buyers to explore and purchase your pro
 ## Pricing
 
 ### :bike: Basic App
-**Starting at $299**
+**Starting at $499**
 - Built from a pre-designed template
 - 3-5 unique screens
 - 1 round of feedback and revision
@@ -45,7 +45,7 @@ Engage your audience, making it easy for buyers to explore and purchase your pro
 - 1 hour of training and support
 
 ### :car: Plus App
-**Starting at $399**
+**Starting at $749**
 - Personalized layout and interface
 - 5-7 unique screens
 - 2 rounds of feedback and revision
@@ -53,7 +53,7 @@ Engage your audience, making it easy for buyers to explore and purchase your pro
 - 2 hours of training and support
 
 ### :airplane: Pro App
-**Starting at $499**
+**Starting at $999**
 - Custom design, built from scratch
 - 8+ unique screens
 - 2 rounds of feedback and revision
